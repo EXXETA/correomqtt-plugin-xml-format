@@ -1,6 +1,6 @@
-package com.exxeta.correomqtt.plugin.format;
+package org.exxeta.correomqtt.plugin.format;
 
-import com.exxeta.correomqtt.plugin.spi.DetailViewFormatHook;
+import org.correomqtt.plugin.spi.DetailViewFormatHook;
 import org.fxmisc.richtext.model.StyleSpans;
 import org.fxmisc.richtext.model.StyleSpansBuilder;
 import org.pf4j.Extension;
